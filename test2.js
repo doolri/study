@@ -1,1 +1,4 @@
-function test2() { alert('test');}
+function hellogit() {
+  alert('hellogit');
+  alert('hellogit');
+}
